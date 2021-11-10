@@ -84,3 +84,7 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+    
+    
+    ## pymysql.err.OperationalError: (3140, 'Invalid JSON text: "Invalid encoding in string." at position 145 in value for column \'tagged_arn.doc\'.')
